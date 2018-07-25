@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_26" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 56.692 56.692" style="enable-background:new 0 0 56.692 56.692;" xml:space="preserve">
+<g>
+	<defs>
+		<circle id="SVGID_1_" cx="28.346" cy="28.346" r="28.347"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<rect x="-14.173" y="0" style="clip-path:url(#SVGID_2_);fill:#FFFFFF;" width="85.039" height="56.693"/>
+	<polygon style="clip-path:url(#SVGID_2_);fill:#CE1126;" points="28.346,24.263 64.915,0 -8.22,0 	"/>
+	<polygon style="clip-path:url(#SVGID_2_);fill:#CE1126;" points="28.346,32.427 -8.22,56.693 64.915,56.693 	"/>
+	<polygon style="clip-path:url(#SVGID_2_);fill:#1EB53A;" points="20.852,28.345 -14.173,5.246 -14.173,51.652 	"/>
+	<polygon style="clip-path:url(#SVGID_2_);fill:#1EB53A;" points="35.842,28.345 70.866,5.246 70.866,51.652 	"/>
+	<circle style="clip-path:url(#SVGID_2_);fill:#FFFFFF;" cx="28.346" cy="28.345" r="15.621"/>
+	<g style="clip-path:url(#SVGID_2_);">
+		<g>
+			<polygon style="fill:#1EB53A;" points="30.657,20.552 31.817,18.539 29.493,18.539 28.331,16.523 27.166,18.539 24.842,18.539 
+				26.004,20.552 24.842,22.564 27.166,22.564 28.331,24.58 29.493,22.564 31.817,22.564 			"/>
+			<polygon style="fill:#CE1126;" points="27.37,22.209 25.459,22.209 26.416,20.552 25.459,18.894 27.37,18.894 28.331,17.236 
+				29.29,18.894 31.202,18.894 30.245,20.552 31.202,22.209 29.29,22.209 28.331,23.867 			"/>
+		</g>
+		<g>
+			<polygon style="fill:#1EB53A;" points="23.487,32.742 24.649,30.73 22.325,30.73 21.161,28.712 19.998,30.73 17.674,30.73 
+				18.834,32.742 17.674,34.753 19.998,34.753 21.161,36.771 22.325,34.753 24.649,34.753 			"/>
+			<polygon style="fill:#CE1126;" points="20.202,34.398 18.291,34.398 19.247,32.742 18.291,31.085 20.202,31.085 21.161,29.425 
+				22.12,31.085 24.032,31.085 23.075,32.742 24.032,34.398 22.12,34.398 21.161,36.056 			"/>
+		</g>
+		<g>
+			<polygon style="fill:#1EB53A;" points="37.86,32.742 39.02,30.73 36.696,30.73 35.534,28.712 34.37,30.73 32.045,30.73 
+				33.207,32.742 32.045,34.753 34.37,34.753 35.534,36.771 36.696,34.753 39.02,34.753 			"/>
+			<polygon style="fill:#CE1126;" points="34.573,34.398 32.663,34.398 33.62,32.742 32.663,31.085 34.573,31.085 35.534,29.425 
+				36.493,31.085 38.405,31.085 37.448,32.742 38.405,34.398 36.493,34.398 35.534,36.056 			"/>
+		</g>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_93" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 56.692 56.692" style="enable-background:new 0 0 56.692 56.692;" xml:space="preserve">
+<g>
+	<defs>
+		<circle id="SVGID_1_" cx="28.346" cy="28.347" r="28.346"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<rect x="0" y="0" style="clip-path:url(#SVGID_2_);fill:#FFC61E;" width="85.039" height="14.174"/>
+	<rect x="0" y="14.173" style="clip-path:url(#SVGID_2_);fill:#FFFFFF;" width="85.039" height="14.172"/>
+	<rect x="0" y="28.345" style="clip-path:url(#SVGID_2_);fill:#CE1126;" width="85.039" height="14.174"/>
+	<rect x="0" y="42.519" style="clip-path:url(#SVGID_2_);fill:#3A75C4;" width="85.039" height="14.176"/>
+	<polygon style="clip-path:url(#SVGID_2_);fill:#3D8E33;" points="47.394,28.347 0,56.693 0,0 	"/>
+	<g style="clip-path:url(#SVGID_2_);">
+		<polygon style="fill:#FFFFFF;" points="19.076,17.048 19.638,18.708 21.458,18.708 19.982,19.789 20.528,21.435 19.076,20.457 
+			17.623,21.435 18.169,19.789 16.705,18.708 18.526,18.708 		"/>
+		<polygon style="fill:#FFFFFF;" points="19.076,23.144 19.638,24.804 21.458,24.804 19.982,25.884 20.528,27.531 19.076,26.552 
+			17.623,27.531 18.169,25.884 16.705,24.804 18.526,24.804 		"/>
+		<polygon style="fill:#FFFFFF;" points="19.076,29.24 19.638,30.9 21.458,30.9 19.982,31.98 20.528,33.626 19.076,32.648 
+			17.623,33.626 18.169,31.98 16.705,30.9 18.526,30.9 		"/>
+		<polygon style="fill:#FFFFFF;" points="19.076,35.335 19.638,36.996 21.458,36.996 19.982,38.076 20.528,39.722 19.076,38.744 
+			17.623,39.722 18.169,38.076 16.705,36.996 18.526,36.996 		"/>
+		<path style="fill:#FFFFFF;" d="M9.099,28.603c0-6.24,4.477-11.408,10.356-12.43c-1.026-0.264-2.096-0.418-3.203-0.418
+			c-7.096,0-12.848,5.752-12.848,12.848c0,7.094,5.752,12.846,12.848,12.846c1.107,0,2.177-0.154,3.203-0.418
+			C13.576,40.009,9.099,34.839,9.099,28.603z"/>
+	</g>
+</g>
+</svg>
